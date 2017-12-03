@@ -1,0 +1,7 @@
+C:\Users\roman\source\repos\OOPCalculat\OOPCalculat\bin\Debug\OOPCalculat.exe.config
+C:\Users\roman\source\repos\OOPCalculat\OOPCalculat\bin\Debug\OOPCalculat.exe
+C:\Users\roman\source\repos\OOPCalculat\OOPCalculat\bin\Debug\OOPCalculat.pdb
+C:\Users\roman\source\repos\OOPCalculat\OOPCalculat\obj\Debug\OOPCalculat.csprojResolveAssemblyReference.cache
+C:\Users\roman\source\repos\OOPCalculat\OOPCalculat\obj\Debug\OOPCalculat.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\OOPCalculat\OOPCalculat\obj\Debug\OOPCalculat.exe
+C:\Users\roman\source\repos\OOPCalculat\OOPCalculat\obj\Debug\OOPCalculat.pdb
